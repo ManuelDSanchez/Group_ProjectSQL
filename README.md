@@ -60,3 +60,13 @@ Lastly, we have three separate entities that share a one-to-many relationship wi
 ## Queries:
 ![Screenshot 2023-11-07 221718](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148248019/f4b5d809-cead-42f8-a307-a59ec82e5400)
 
+![Screenshot 2023-11-07 222007](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148248019/869d03dc-9dc7-487e-a690-0ba6eada0949)
+![Screenshot 2023-11-07 222016](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148248019/87036ae3-a92a-44cf-98a0-f931255a1d86)
+![Screenshot 2023-11-07 222034](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148248019/eb4c303a-b15b-4b62-b8fa-fad89d2b6022)
+![Screenshot 2023-11-07 222041](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148248019/97916fe3-23f3-47ff-b2aa-27f4137fc69b)
+![Screenshot 2023-11-07 222052](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148248019/e8b95c4d-f674-443e-ad39-7808afb3dddb)
+![Screenshot 2023-11-07 222104](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148248019/f982d4a1-3320-4acd-a8ef-df62f5673825)
+![Screenshot 2023-11-07 222120](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148248019/e2b5cd9f-ddd6-42fd-a5a0-4b9132d6d34f)
+![Screenshot 2023-11-07 222128](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148248019/9c24be6c-e474-4620-874a-04c176707005)
+![Screenshot 2023-11-07 222137](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148248019/4eb20ea8-e511-45f0-9b06-313661e57838)
+![Screenshot 2023-11-07 222146](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148248019/f77ca398-85ce-4cab-8b32-cfb84891b690)
