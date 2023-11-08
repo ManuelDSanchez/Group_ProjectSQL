@@ -24,7 +24,7 @@ Lastly, we have three separate entities that share a one-to-many relationship wi
 
 ## Data Dictionary
 
-![Screenshot 2023-11-07 221548](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/604ba151-daf2-4abf-bec7-12891c09f441)
+![image](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/55907df4-1114-411d-9fcb-935dceadf9b4)
 
 ![Screenshot 2023-11-07 221608](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/bbe06d0a-b244-410e-a509-e57c9b5d836f)
 
