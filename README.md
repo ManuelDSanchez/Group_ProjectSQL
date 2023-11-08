@@ -21,3 +21,7 @@ Finances are a one-to-many relationship with teams because we are under the assu
 Lastly, we have three separate entities that share a one-to-many relationship with finances as they are what is going into the finance account. This being tickets, merchandise, and sponsors. Tickets and Merchandise contain both price and amount sold. Sponsors have a name, contract start, contract finish, and sponsor amount. 
 
 ![Screenshot 2023-11-07 215008](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/b42eeff3-f28c-433e-987c-09d060b1fbc8)
+
+## Queries:
+![Screenshot 2023-11-07 221718](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148248019/f4b5d809-cead-42f8-a307-a59ec82e5400)
+
