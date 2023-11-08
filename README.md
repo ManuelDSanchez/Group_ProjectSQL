@@ -22,6 +22,41 @@ Lastly, we have three separate entities that share a one-to-many relationship wi
 
 ![Screenshot 2023-11-07 215008](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/b42eeff3-f28c-433e-987c-09d060b1fbc8)
 
+## Data Dictionary
+
+![Screenshot 2023-11-07 221548](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/604ba151-daf2-4abf-bec7-12891c09f441)
+
+![Screenshot 2023-11-07 221608](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/bbe06d0a-b244-410e-a509-e57c9b5d836f)
+
+![Screenshot 2023-11-07 221615](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/5d60f00c-3f42-4125-ab04-b78fed84c4a1)
+
+![Screenshot 2023-11-07 221629](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/3f18db9b-ffae-4e9d-9c0b-05a1bed8fbb0)
+
+![Screenshot 2023-11-07 221639](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/d4804d64-dbf7-401c-addb-0f65a96109e0)
+
+![Screenshot 2023-11-07 221650](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/24d812a6-f907-4c74-aca5-593a85ed3a75)
+
+![Screenshot 2023-11-07 221658](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/6dc0dbc4-714f-4e4f-b65b-5801ac4893fa)
+
+![Screenshot 2023-11-07 221715](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/653761e0-846e-4aa2-8686-cc487e0ceb25)
+
+![Screenshot 2023-11-07 221724](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/4efc4794-f8b6-4ed8-addd-d25193f6721f)
+
+![Screenshot 2023-11-07 221745](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/7ed907de-7a2e-4dcf-8b57-f949ea31feb0)
+
+![Screenshot 2023-11-07 221750](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/01cd4185-635a-434a-a41c-7bad87fb8756)
+
+![Screenshot 2023-11-07 221758](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/adce6419-bd52-4085-8294-cd3f178eecf4)
+
+![Screenshot 2023-11-07 221809](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/5da3330c-aade-4fd0-a728-8af97c479c0c)
+
+![Screenshot 2023-11-07 221814](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/2e94652e-4f86-48fa-a3df-d6d3c95e3b36)
+
+![Screenshot 2023-11-07 221820](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/9e6b27b4-1e2a-4a9b-be65-140c25367484)
+
+![Screenshot 2023-11-07 221834](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/59001842-28f6-4903-bb58-47400cf63e9a)
+
+
 ## Queries:
 ![Screenshot 2023-11-07 221718](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148248019/f4b5d809-cead-42f8-a307-a59ec82e5400)
 
