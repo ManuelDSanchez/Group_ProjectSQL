@@ -8,7 +8,7 @@
 4. Jackson Lundmark [jlundmark9](https://www.github.com/jlundmark9)
 
 ## Problem Description:
-The task at hand was to construct a relational database for a men’s and women’s soccer club based out of Athens, GA called “Georgia United FC”. The central entity of our database is Team, this being both the men’s and women’s teams. The teams are directly tied to facilities, matches, fans, finances, ect. which are the aspects that are connected to running our team. We worked to depict the database with the correct relationships, generating data for each entity, and then populating the database with the entities and corresponding attributes. With that data, we also planned to perform working queries that allow us to further increase our comprehension of the team and all of the subsequent operations.
+The task at hand was to construct a relational database for a men’s and women’s soccer club based out of Athens, GA called “Georgia United FC”. The central entity of our database is Team, this being both the men’s and women’s teams. The teams are directly tied to facilities, matches, fans, finances, etc. which are the aspects that are connected to running our team. We worked to depict the database with the correct relationships, generating data for each entity, and then populating the database with the entities and corresponding attributes. With that data, we also planned to perform working queries that allow us to further increase our comprehension of the team and all of the subsequent operations.
 
 ## Data Model:
 Explanation of our Data model:
