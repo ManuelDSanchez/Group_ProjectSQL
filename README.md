@@ -1,4 +1,4 @@
-# [Mist 4610 Group Project 1] 
+# Mist 4610 Group Project 1
 
 ## Team Members:
 
@@ -10,7 +10,8 @@
 ## Problem Description:
 The task that was given was to construct a relational database for a men’s and women’s soccer club based out of Athens, GA called “Georgia United FC”. The central entity of our database is Team, this being both the men’s and women’s team. The team is directly tied to facilities, matches, fans, finances, ect. which are the aspects that are connected to running our team. We worked to depict the database with the correct relationships, generating data for each entity, and then populating the database with the entities and corresponding attributes. With that data, we also planned to perform working queries that allow us to further increase our comprehension of the team and all of the subsequent operations.
 
-## Explanation of data model:
+## Data Model:
+Explanation of our Data model:
 Our data model is a representation of a soccer club called “Georgia United FC”. This club consists of a men’s and women’s team which is at the center of our database under the Team entity.  A team has a roster size, record, gender, and year. A team consists of many players and are connected by a one-to-many relationship. This is due to the fact that players can only reside in one team, respectively. Players have a first and last name, date of birth, position, nationality, contract length, and youth development. 
 The facilities are separate for each team, for example the women’s have their own gym and the men’s have their own field. This makes it a one-to-many relationship as each one team has many facilities. Facilities are described by name, location, schedule, amenities, and capacity. In these facilities there’s only one place that record many injuries, and injuries consist of type, date, and date of return. 
 Our team has many matches that each have a date, venue, opponent, score, and outcome. The matches entity is connected to the tournament entity with a one-to-many relationship as there is only one tournament taking place that consists of many matches in said tournament. This tournament contains the following information, name, venue, start and end date, and city. The tournament entity also contains a one-to-one recursive relationship due to the previous tournaments being recorded.
