@@ -18,3 +18,5 @@ The team has people that are fans for both the men’s and women’s team so the
 The team is also composed of coaches who have a first name, last name, years of experience, position (head coach and assistant coach), record, and contract start and end. The coaches and players entities also share a many-to-many relationship as the players have multiple coaches and coaches train multiple players.
 Finances are a one-to-many relationship with teams because we are under the assumption that both the men’s and women’s are under the same finances. In the finances we have transaction date, transaction type, amount, financial category, and payment method. 
 Lastly, we have three separate entities that share a one-to-many relationship with finances as they are what is going into the finance account. This being tickets, merchandise, and sponsors. Tickets and Merchandise contain both price and amount sold. Sponsors have a name, contract start, contract finish, and sponsor amount. 
+
+![Screenshot 2023-11-07 215008](https://github.com/ManuelDSanchez/Group_ProjectSQL/assets/148247767/b42eeff3-f28c-433e-987c-09d060b1fbc8)
